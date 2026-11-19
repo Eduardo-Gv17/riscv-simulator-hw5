@@ -17,4 +17,3 @@ Simulador en JavaScript, HTML y CSS para la tarea 5. Carga binarios crudos en `0
 
 Cada binario se incluye con su fuente ensamblador. Los primeros tres ejemplos se adaptaron de los programas enlazados en la consigna. [riscvtest](https://pastebin.com/pKuqWTLh) · [Quicksort](https://pastebin.com/MmQzpFyR) · [Árbol](https://pastebin.com/R74Uqc68)
 
-[Guion del video](GUION.md)
